@@ -79,7 +79,8 @@ The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
 
 - <pre> mkdir level12directory 
-cp ~/data.txt /tmp/level12directory </pre> 
+cp ~/data.txt /tmp/level12directory 
+</pre> 
 created a safe working directory in /tmp to avoid cluttering the home folder
 - `xxd -r data.txt > data.bin` used xxd -r to reverse the hexdump and recreate the original binary
 - file used to inspect each layer and applied the correct decompression tool based on the format:
