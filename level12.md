@@ -78,7 +78,7 @@ The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 </pre>
 
 
-- <pre> mkdir level12directory 
+<pre> mkdir level12directory 
 cp ~/data.txt /tmp/level12directory 
 </pre> 
 created a safe working directory in /tmp to avoid cluttering the home folder
