@@ -12,9 +12,8 @@ bandit20@bandit:~$ ./suconnect
 Usage: ./suconnect <portnumber>
 This program will connect to the given port on localhost using TCP. If it receives the correct password from the other side, the next password is transmitted back.
 bandit20@bandit:~$ nc -l -p 12345
-./suconnect 12345
-Read: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
-Password matches, sending next password
+0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 </pre>
 
 
