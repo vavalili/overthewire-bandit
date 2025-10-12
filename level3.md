@@ -15,3 +15,5 @@ bandit3@bandit:~/inhere$ ls -a
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 </pre>
+
+- ``ls -a`` This lists all files and directories in the current directory, including hidden ones
