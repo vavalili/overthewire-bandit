@@ -16,3 +16,6 @@ bandit4@bandit:~/inhere$ file ./* | grep text
 bandit4@bandit:~/inhere$ cat ./-file07
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 </pre>
+
+- ``file ./*`` tells the type of each file
+- ``| grep text`` Filters the output to show only files that contain the word “text” in their type
