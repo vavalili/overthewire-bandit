@@ -20,3 +20,9 @@ bandit5@bandit:~/inhere$ find -type f -size 1033c ! -executable
 bandit5@bandit:~/inhere$ cat maybehere07/.file2
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 </pre>
+
+
+- ``find`` search for files
+- ``-type f`` only regular files
+- ``-size 1033c`` exactly 1033 bytes
+- ``! -executable`` not executable 
